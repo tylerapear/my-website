@@ -1,3 +1,4 @@
+import { XeldaGame } from '../components/XeldaGame';
 import './HomePage.css'
 
 export function HomePage() {
@@ -8,6 +9,7 @@ export function HomePage() {
         <h1>Tyler Pearson</h1>
         <h4>And I'm an aspiring Software Engineer</h4>
       </div>
+      <XeldaGame />
     </>
   );
 }
