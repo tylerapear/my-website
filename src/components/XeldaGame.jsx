@@ -17,6 +17,12 @@ export function XeldaGame() {
         <a href="https://github.com/tylerapear">tylerapear</a>
         <br></br>
         <a href="https://github.com/punz321">punz321</a>
+        <br></br>
+        <a href="https://github.com/hcimtwb">hcimtwb</a>
+        <br></br>
+        <a href="https://github.com/tysoncung">tysoncung</a>
+        <br></br>
+        <a href="https://github.com/vey-droid">vey-droid</a>
       </p>
     </div>
   );
