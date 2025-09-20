@@ -16,11 +16,15 @@ export function XeldaGame() {
       <p class = "centered-paragraph">
         <a href="https://github.com/tylerapear">tylerapear</a>
         <br></br>
+        <a href="https://github.com/juni2003">juni2003</a>
+        <br></br>
         <a href="https://github.com/punz321">punz321</a>
         <br></br>
         <a href="https://github.com/hcimtwb">hcimtwb</a>
         <br></br>
         <a href="https://github.com/tysoncung">tysoncung</a>
+        <br></br>
+        <a href="https://github.com/devkumar2313">devkumar2313</a>
         <br></br>
         <a href="https://github.com/vey-droid">vey-droid</a>
       </p>
