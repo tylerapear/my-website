@@ -1,4 +1,9 @@
 
+.page-and-footer-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
 .home-page-wrapper {
   width: 100%;
   display: flex;
