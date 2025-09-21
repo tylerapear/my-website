@@ -1,0 +1,19 @@
+
+
+footer{
+  display: flex;
+  background-color: #1f1f20;
+  height: 70px;
+}
+
+.footer-wrapper{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-social{
+  height: 25px;
+  margin: 8px;
+}

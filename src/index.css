@@ -4,13 +4,17 @@ html{
 
 body{
   display: inline-block;
-  background-color: #141414;
+  background-color: #2a2a2e;
   color: #ededed;
   font-family: Verdana, sans-serif;
-  max-width: 1000px;
+  width: 100%;
+  margin: 0;
 }
 
 #root{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   text-align: center;
-  margin-top: 20px;
+  width: 100%
 }

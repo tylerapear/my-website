@@ -1,4 +1,15 @@
 
+.home-page-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.home-page-container {
+  max-width: 1000px;
+  padding-top: 60px;
+}
+
 .intro-container{
   display: inline-block;
   text-align: left;
